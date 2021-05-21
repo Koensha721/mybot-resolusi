@@ -1,8 +1,10 @@
 resolusi astrobot_01 kedepannya
+
 -dapat menguasai web programming
   *html
   *css
   *javascript
+ 
  -belajar framework untuk setiap programming language
    > css & html
       *bootstarp
@@ -11,4 +13,12 @@ resolusi astrobot_01 kedepannya
       *nodeJS
       *reactJS
       *angular
+
+-belajar bahasa programming baru
+ *php
+ *python
+ 
+ -ingin melanjutkan belajar bahas
+  *java
+  *C++
   
